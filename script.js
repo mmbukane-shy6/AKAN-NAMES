@@ -18,12 +18,12 @@ submit.addEventListener("click", function() {
     var output = document.getElementById("output");
 
     if (dd < 1 || dd > 31) {
-        alert("oopsy");
+        alert("oopsy please write valid date");
     } else if (mm < 1 || mm > 12) {
-        alert("oopsy");
+        alert("oopsy please write valid month ");
 
     } else if (yy.toString().length !== 4) {
-        alert("oopsy");
+        alert("oopsy please write valid year");
     } else if (male.checked) {
         output.innerHTML = "hello! you were born on " +  daysOfWeek[dayOfBirth] +", and your Akan name is " + maleAkanNames[dayOfBirth];
     } else {
