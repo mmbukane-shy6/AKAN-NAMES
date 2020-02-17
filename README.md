@@ -1,32 +1,41 @@
 # AKAN NAMES
 
 # AUTHOR
+
 SHEILA EGEIDZA
 
 ## DESCRIPTION
-This site enables the user to know their Akan Name by simply entering their
+
+-This site enables the user to know their Akan Name by simply entering their
 birtday in the form.
 
 ## SET UP INSTRUCTIONS
-Must have internet connection
-Must have a github account
+-Must have internet connection
+
+-Must have a github account
 
 ## TECHNOLOGY USED
-html
-css
-java script
-Bootsrap
+-html
+
+-css
+
+-java script
+
+-Bootsrap
 
 ## KNOWN BUGS
-none
+-none
 
 ## LIVE LINK
 
 ## CONTACT INFO
-Email address:sheilaegeidza@gmail.com
-phone:0796680568
+-Email address:sheilaegeidza@gmail.com
 
-## LISENCEMIT
+-phone:0796680568
+
+## LISENCE
+
+MIT
 
  License
 
